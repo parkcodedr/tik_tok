@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images:{
-    domains:['okworisunday.netlify.app']
+    domains:['okworisunday.netlify.app','lh3.googleusercontent.com']
   }
 }
 
